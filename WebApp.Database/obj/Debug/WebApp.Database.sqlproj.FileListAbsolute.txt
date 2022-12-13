@@ -1,0 +1,10 @@
+C:\Projects\Dfds_Projects\Hedef\WebAppWithDatabaseDemo\WebApp.Database\bin\Debug\WebApp.Database.dacpac
+C:\Projects\Dfds_Projects\Hedef\WebAppWithDatabaseDemo\WebApp.Database\bin\Debug\WebApp.Database.dll
+C:\Projects\Dfds_Projects\Hedef\WebAppWithDatabaseDemo\WebApp.Database\bin\Debug\WebApp.Database.pdb
+C:\Projects\Dfds_Projects\Hedef\WebAppWithDatabaseDemo\WebApp.Database\obj\Debug\WebApp.Database.sqlproj.AssemblyReference.cache
+C:\Projects\Dfds_Projects\Hedef\WebAppWithDatabaseDemo\WebApp.Database\obj\Debug\Model.xml
+C:\Projects\Dfds_Projects\Hedef\WebAppWithDatabaseDemo\WebApp.Database\obj\Debug\refactor.xml
+C:\Projects\Dfds_Projects\Hedef\WebAppWithDatabaseDemo\WebApp.Database\obj\Debug\postdeploy.sql
+C:\Projects\Dfds_Projects\Hedef\WebAppWithDatabaseDemo\WebApp.Database\obj\Debug\predeploy.sql
+C:\Projects\Dfds_Projects\Hedef\WebAppWithDatabaseDemo\WebApp.Database\obj\Debug\WebApp.Database.dll
+C:\Projects\Dfds_Projects\Hedef\WebAppWithDatabaseDemo\WebApp.Database\obj\Debug\WebApp.Database.pdb
